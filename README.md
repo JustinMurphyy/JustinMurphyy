@@ -10,7 +10,7 @@
 - LUA
 - FiveM Natives (Lua)
 - RedM Natives (Lua)
-- Qbox/Qbus/QBCore/Esx FrameWork 
+- Qbox/Qbus/QBCore/Esx Framework 
 
 ## Ongoing Projects
 - Book Of Secrets RP
