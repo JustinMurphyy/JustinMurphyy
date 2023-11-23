@@ -8,7 +8,7 @@
 - Royal Music Community Co-Owner
 - Bayou Bullets Owner
 
-## knowledge
+## Knowledge
 - LUA
 - RedM (VORP)
 - FiveM (Qbox,Qbus,QBCore,Esx)
