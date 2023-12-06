@@ -10,9 +10,9 @@
 
 ## Knowledge
 - LUA
-- RedM (VORP)
+- RedM (VORP Core)
 - FiveM (Qbox,Qbus,QBCore,Esx)
-- HeidiSQL 
+- MYSQL
 
 ## Ongoing Projects
 - Bayou Bullets (RedM)
