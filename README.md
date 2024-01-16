@@ -1,7 +1,7 @@
-## [My Music Profile](https://soundcloud.com/justinmurph)
 
 ## About Me
-- I am a fast learner. I Rap and write music which fills most my freetime other than here! I love to read and obtain new information all the time. I work on many projects from Community Establishment to Game Development. Started on Discord creating servers, to learning how to write my own bots. My Best Quote "If you dont know, figure it out"
+- I am a fast learner. I love to read and obtain new information all the time. I work on many projects from Community Establishment to Game Development. Started on Discord creating servers to learning how to write my own bots.
+My Best Quote "If you dont know, figure it out"
 
 ## Work
 - Operator with Namiku Hibatchi
@@ -10,17 +10,15 @@
 
 ## Knowledge
 - LUA
-- RedM (VORP Core)
+- RedM (VORP/QBR Core)
 - FiveM (Qbox,Qbus,QBCore,Esx)
-- MYSQL
 
 ## Ongoing Projects
-- Bayou Bullets (RedM)
+- Bayou Bullets (RedM) (Custom Written Core)
 
 ## Projects Completed
-- Lunacy RP (FiveM)
-- Most Wanted County (RedM)
-- Lava Link Music Bot (Node.js)
-- Royal Music Community
-- Smoove Chill
-- Music Block Party
+- Lunacy RP (FiveM) (Complete LUA written Custom Core used)
+- Most Wanted County (RedM) (C# core + some Java Edits)
+- Lava Link Music Bot (Node.js)(DB Connected)
+- Royal Music Community (Discord Community Platform for Music) (13,800 Members - 2800 Active Daily)
+- Several Github Pushes located here https://github.com/JustinMurphyy (2023 Listing) 
