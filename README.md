@@ -15,10 +15,11 @@ My Best Quote "If you dont know, figure it out"
 
 ## Ongoing Projects
 - Bayou Bullets (RedM) (Custom Written Core)
+- **Delta RP** (FiveM) (Custom Modified QB) - Biggest project ongoing
 
 ## Projects Completed
-- Lunacy RP (FiveM) (Complete LUA written Custom Core used)
+- Lunacy RP (FiveM) (written Custom Core used)
 - Most Wanted County (RedM) (C# core + some Java Edits)
-- Lava Link Music Bot (Node.js)(DB Connected)
+- Lava Link Music Bot (Node.js)(MonoDB Connected)
 - Royal Music Community (Discord Community Platform for Music) (13,800 Members - 2800 Active Daily)
-- Several Github Pushes located here https://github.com/JustinMurphyy (2023 Listing) 
+- Several Github Pushes located here https://github.com/JustinMurphyy (2024 Listing) 
