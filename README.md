@@ -18,8 +18,8 @@ My Best Quote "If you dont know, figure it out"
 - **Delta RP** (FiveM) (Custom Modified QB) - Biggest project ongoing
 
 ## Projects Completed
-- Lunacy RP (FiveM) (written Custom Core used)
-- Most Wanted County (RedM) (C# core + some Java Edits)
-- Lava Link Music Bot (Node.js)(MonoDB Connected)
+- Lunacy RP (FiveM) (written Custom Core used) 2022
+- Most Wanted County (RedM) (C# + some Java Edits)
+- Lava Link Music Bot (Node.js) (MonoDB callbacks/datastore)
 - Royal Music Community (Discord Community Platform for Music) (13,800 Members - 2800 Active Daily)
 - Several Github Pushes located here https://github.com/JustinMurphyy (2024 Listing) 
