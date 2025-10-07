@@ -1,13 +1,13 @@
-<!-- HEADER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hey+there%2C+I'm+Justin+Murphy!;Fast+Learner+%7C+Developer+%7C+Creator;Community+Builder+%7C+Game+Systems+Designer;Always+Learning+Something+New+🚀" alt="Typing SVG" />
-</h1>
-
+<!-- 🌌 ANIMATED HEADER START -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding GIF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6B00FF&height=180&section=header&text=👋%20Welcome%20to%20Justin%20Murphy's%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20|%20Creator%20|%20Community%20Builder&descAlignY=58" width="100%" />
 </p>
 
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Fast+Learner+🚀;Game+Developer+🎮;Discord+Bot+Engineer+🤖;Always+Exploring+New+Tech+🌍" alt="Typing SVG" />
+</h1>
+<!-- 🌌 ANIMATED HEADER END -->
+
 
 ### 🧠 About Me
 
