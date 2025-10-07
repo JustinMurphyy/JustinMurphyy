@@ -1,31 +1,31 @@
 <!-- HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Justin+Murphy!;Fast+Learner+%7C+Developer+%7C+Creator;Community+Builder+%7C+System+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hey+there%2C+I'm+Justin+Murphy!;Fast+Learner+%7C+Developer+%7C+Creator;Community+Builder+%7C+Game+Systems+Designer;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding GIF" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I’m a **self-taught developer** with a passion for **learning, building, and solving problems**.  
-My journey began with **Discord** communities — building bots, automations, and management systems — and evolved into full-scale **game framework development** for **RedM** and **FiveM**.
+I’m a **self-taught developer** and **community builder** who’s always exploring new ideas, systems, and technologies.  
+I began with **Discord communities** — creating bots, automations, and management systems — and evolved into developing **game frameworks** for **RedM** and **FiveM**.
 
-> 💬 *“If you don’t know, figure it out.”* — My personal motto.
+> 💬 *“If you don’t know, figure it out.”* — My motto and mindset.
 
 ---
 
 ### ⚙️ Skills & Knowledge
 
 - **Languages:** LUA, Java, TypeScript, C++, C#, JavaScript, HTML/CSS  
-- **Game Frameworks / Cores:**
+- **Frameworks / Cores:**
   - 🐍 **RedM:** VORP, QBR Core  
   - 🚗 **FiveM:** Qbox, Qbus, QB-Core, ESX  
-- **Discord Bot Development:** Automation • Music Bots • Moderation Systems  
-- **Systems & Tools:** Custom Core Design • API Integration • Performance Optimization  
+- **Discord Bot Development:** Automation • Music Systems • Moderation Tools  
+- **Systems Design:** API Integration • Custom Core Logic • Optimization & Performance
 
 ---
 
@@ -34,7 +34,7 @@ My journey began with **Discord** communities — building bots, automations, an
 | Project | Platform | Description |
 |----------|-----------|-------------|
 | **Bayou Bullets** | RedM | Fully custom written core developed from scratch |
-| **Delta RP** | FiveM | Custom modified QB framework – *major current focus* |
+| **Delta RP** | FiveM | Custom modified QB framework – *main ongoing project* |
 
 ---
 
@@ -43,14 +43,14 @@ My journey began with **Discord** communities — building bots, automations, an
 | Project | Platform | Highlights |
 |----------|-----------|------------|
 | **Lunacy RP** | FiveM | Custom core written from scratch (2022) |
-| **Most Wanted County** | RedM | C# + Java hybrid edits for game logic |
-| **Lava Link Music Bot** | Node.js | Data handling with MongoDB callback systems |
-| **Royal Music Community** | Discord | 13,800+ Members • 2,800+ Active Daily |
-| **More Projects** | GitHub | [Check my repositories →](https://github.com/JustinMurphyy) |
+| **Most Wanted County** | RedM | Framework with C# + Java hybrid edits |
+| **Lava Link Music Bot** | Node.js | MongoDB callback + datastore logic |
+| **Royal Music Community** | Discord | 13,800+ Members • 2,800+ Active Users |
+| **More Projects** | GitHub | [View them all →](https://github.com/JustinMurphyy) |
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JustinMurphyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
@@ -66,11 +66,11 @@ My journey began with **Discord** communities — building bots, automations, an
 ### 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,java,typescript,cpp,js,html,css,nodejs,discord" /><br><br>
+  <img src="https://skillicons.dev/icons?i=lua,java,typescript,cpp,js,html,css,nodejs,discord,github,vscode" /><br><br>
   <img src="https://img.shields.io/badge/FiveM-FF8800?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/RedM-CC0000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
@@ -83,7 +83,17 @@ My journey began with **Discord** communities — building bots, automations, an
 
 ---
 
-### 🌟 Dynamic GitHub Metrics
+### 🎧 Now Playing on Spotify
+
+<p align="center">
+  <a href="https://open.spotify.com/user/justinmurphy1111">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00F7FF&username=justinmurphy1111" alt="Spotify Now Playing" width="45%" />
+  </a>
+</p>
+
+---
+
+### 🌌 Contribution Activity
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=JustinMurphyy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="60%" />
