@@ -30,7 +30,7 @@ I began with **Discord communities** — creating bots, automations, and managem
 | Project | Platform | Description |
 |----------|-----------|-------------|
 | **Bayou Bullets** | RedM | Fully custom written core developed from scratch |
-| **Delta RP** | FiveM | Custom modified QB framework – *main ongoing project* |
+| **Delta RP** | FiveM | Custom modified QB framework – *completed project* |
 
 ---
 
