@@ -38,9 +38,9 @@ I began with **Discord communities** — creating bots, automations, and managem
 
 | Project | Platform | Highlights |
 |----------|-----------|------------|
-| **Lunacy RP** | FiveM | Custom core written from scratch (2022) |
+| **Lunacy RP** | FiveM | Custom Framework (2022) |
 | **Most Wanted County** | RedM | Framework with C# + Java hybrid edits |
-| **Lava Link Music Bot** | Node.js | MongoDB callback + datastore logic |
+| **Lava Link Music Bot** | JS | Automod + Slash Verified |
 | **Royal Music Community** | Discord | 13,800+ Members • 2,800+ Active Users |
 | **More Projects** | GitHub | [View them all →](https://github.com/JustinMurphyy) |
 
@@ -52,11 +52,6 @@ I began with **Discord communities** — creating bots, automations, and managem
   <img src="https://github-readme-stats.vercel.app/api?username=JustinMurphyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JustinMurphyy&theme=tokyonight&hide_border=true" width="49%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinMurphyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages%20⚙️" width="49%" />
-</p>
-
 ---
 
 ### 🧩 Tech Stack
@@ -79,15 +74,6 @@ I began with **Discord communities** — creating bots, automations, and managem
 
 ---
 
-### 🎧 Now Playing on Spotify
-
-<p align="center">
-  <a href="https://open.spotify.com/user/justinmurphy1111">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00F7FF&username=justinmurphy1111" alt="Spotify Now Playing" width="45%" />
-  </a>
-</p>
-
----
 
 ### 🌌 Contribution Activity
 
