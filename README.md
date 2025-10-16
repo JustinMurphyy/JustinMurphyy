@@ -8,7 +8,7 @@
 ### 🧠 About Me
 
 I’m a **self-taught developer** and **community builder** who’s always exploring new ideas, systems, and technologies.  
-I began with **Discord communities** — creating bots, automations, and management systems — and evolved into developing **game frameworks** for **RedM** and **FiveM**.
+I began with **Discord communities** — creating bots, automations, and management systems. 
 
 > 💬 *“If you don’t know, figure it out.”* — My motto and mindset.
 
@@ -16,21 +16,9 @@ I began with **Discord communities** — creating bots, automations, and managem
 
 ### ⚙️ Skills & Knowledge
 
-- **Languages:** LUA, Java, TypeScript, C++, C#, JavaScript, HTML/CSS  
-- **Frameworks / Cores:**
-  - 🐍 **RedM:** VORP, QBR Core  
-  - 🚗 **FiveM:** Qbox, Qbus, QB-Core, ESX  
+- **Languages:** LUA, Java, TypeScript, JavaScript
 - **Discord Bot Development:** Automation • Music Systems • Moderation Tools  
 - **Systems Design:** API Integration • Custom Core Logic • Optimization & Performance
-
----
-
-### 🚧 Ongoing Projects
-
-| Project | Platform | Description |
-|----------|-----------|-------------|
-| **Bayou Bullets** | RedM | Fully custom written core developed from scratch |
-| **Delta RP** | FiveM | Custom modified QB framework – *completed project* |
 
 ---
 
@@ -38,8 +26,7 @@ I began with **Discord communities** — creating bots, automations, and managem
 
 | Project | Platform | Highlights |
 |----------|-----------|------------|
-| **Lunacy RP** | FiveM | Custom Framework (2022) |
-| **Most Wanted County** | RedM | Framework with C# + Java hybrid edits |
+| **Most Wanted County** | RedM | Framework with C# + Java hybrid modifications |
 | **Lava Link Music Bot** | JS | Automod + Slash Verified |
 | **Royal Music Community** | Discord | 13,800+ Members • 2,800+ Active Users |
 | **More Projects** | GitHub | [View them all →](https://github.com/JustinMurphyy) |
@@ -57,7 +44,7 @@ I began with **Discord communities** — creating bots, automations, and managem
 ### 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,java,typescript,cpp,js,html,css,nodejs,discord,github,vscode" /><br><br>
+  <img src="https://skillicons.dev/icons?i=lua,java,typescript,js,html,nodejs,discord,github,vscode" /><br><br>
   <img src="https://img.shields.io/badge/FiveM-FF8800?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/RedM-CC0000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
