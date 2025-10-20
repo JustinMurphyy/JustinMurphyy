@@ -26,8 +26,8 @@ I began with **Discord communities** — creating bots, automations, and managem
 
 | Project | Platform | Highlights |
 |----------|-----------|------------|
-| **Most Wanted County** | RedM | Framework with C# + Java hybrid modifications |
-| **Lava Link Music Bot** | JS | Automod + Slash Verified |
+| **Most Wanted County** | RedM | Beta Released  |
+| **Deneva Security** | JS | Server Security Bot |
 | **Royal Music Community** | Discord | 13,800+ Members • 2,800+ Active Users |
 | **More Projects** | GitHub | [View them all →](https://github.com/JustinMurphyy) |
 
