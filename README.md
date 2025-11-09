@@ -1,71 +1,41 @@
-<!-- 🌌 ANIMATED HEADER START -->
+<!-- 🌌 ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6B00FF&height=180&section=header&text=👋%20Welcome%20to%20Justin%20Murphy's%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20|%20Creator%20|%20Community%20Builder&descAlignY=58" width="100%" />
-</p>
-
-
-
-### 🧠 About Me
-
-I’m a **self-taught developer** and **community builder** who’s always exploring new ideas, systems, and technologies.  
-I began with **Discord communities** — creating bots, automations, and management systems. 
-
-> 💬 *“If you don’t know, figure it out.”* — My motto and mindset.
-
----
-
-### ⚙️ Skills & Knowledge
-
-- **Languages:** LUA, Java, TypeScript, JavaScript
-- **Discord Bot Development:** Automation • Music Systems • Moderation Tools  
-- **Systems Design:** API Integration • Custom Core Logic • Optimization & Performance
-
----
-
-### 🏁 Completed Projects
-
-| Project | Platform | Highlights |
-|----------|-----------|------------|
-| **Most Wanted County** | RedM | Beta Released  |
-| **Deneva Security** | JS | Server Security Bot |
-| **Royal Music Community** | Discord | 13,800+ Members • 2,800+ Active Users |
-| **More Projects** | GitHub | [View them all →](https://github.com/JustinMurphyy) |
-
----
-
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustinMurphyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JustinMurphyy&theme=tokyonight&hide_border=true" width="49%" />
-</p>
----
-
-### 🧩 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,java,typescript,js,html,nodejs,discord,github,vscode" /><br><br>
-  <img src="https://img.shields.io/badge/FiveM-FF8800?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RedM-CC0000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00EAFF,100:7A00FF&height=180&section=header&text=Justin%20Murphy%20•%20Developer&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Creator%20|%20Engineer%20|%20Community%20Builder&descAlignY=60" />
 </p>
 
 ---
 
-### 🏆 GitHub Achievements & Trophies
+## 🧠 About Me
+Self-taught developer focused on automation, scalable systems, and digital communities.  
+Started by building **Discord ecosystems** and expanded into **Lua frameworks, server cores, and security tooling**.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JustinMurphyy&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&row=2" />
-</p>
+> *“If you don’t know, figure it out.”*
 
 ---
 
+## ⚙️ Skills
+- **Languages:** Lua • Java • TypeScript • JavaScript  
+- **Bot Engineering:** Automation • Moderation • Music Systems  
+- **Systems:** API Design • Optimization • Core Logic • Event Pipelines  
 
-### 🌌 Contribution Activity
+---
+
+## 🏁 Featured Projects
+
+| Project | Platform | Notes |
+|--------|----------|--------|
+| **Most Wanted County** | RedM | Public Beta |
+| **Deneva Security** | JS | Security & Audit Bot |
+| **Royal Music** | Discord | 13,800+ Members • 2,800+ Active |
+| **More** | GitHub | [View All](https://github.com/JustinMurphyy) |
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=JustinMurphyy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JustinMurphyy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JustinMurphyy&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -74,29 +44,51 @@ I began with **Discord communities** — creating bots, automations, and managem
 
 ---
 
-### 💬 Quote to Live By
-> “If you don’t know, figure it out.”  
-> — *Justin Murphy*
+## 🧩 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,java,ts,js,nodejs,html,discord,github,vscode" /><br><br>
+
+  <img src="https://img.shields.io/badge/FiveM-FF8800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RedM-AA0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
-### 🌐 Connect With Me
+## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JustinMurphyy&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=2" />
+</p>
 
+---
+
+## 🎯 Contribution Insights
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=JustinMurphyy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="60%" />
+</p>
+
+---
+
+## ✨ Quote
+> *“If you don’t know, figure it out.”*
+
+---
+
+## 🌐 Connect
 <p align="center">
   <a href="https://github.com/JustinMurphyy">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://discord.gg/">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JustinMurphyy&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JustinMurphyy&label=Profile%20Views&color=00D7FF&style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6B00FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00EAFF,100:7A00FF&height=120&section=footer" />
 </p>
