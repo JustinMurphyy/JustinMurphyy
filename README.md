@@ -40,16 +40,6 @@ Started with **Discord ecosystems**, expanded into **Lua frameworks, server core
   <img src="https://img.shields.io/badge/VS%20Code-005EA6?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JustinMurphyy&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=2" />
-</p>
-
-## 🎯 Contributions
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=JustinMurphyy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="60%" />
-</p>
-
 ## 🌐 Connect
 <p align="center">
   <a href="https://github.com/JustinMurphyy">
