@@ -16,8 +16,12 @@ jobs:
     env:
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
     steps:
+      - name: Check WakaTime API key
+        if: ${{ env.WAKATIME_API_KEY == '' }}
+        run: |
+          echo "::error::Add WAKATIME_API_KEY in the repository's Actions secrets to enable the WakaTime sync."
+          exit 1
       - uses: athul/waka-readme@master
-        if: ${{ env.WAKATIME_API_KEY != '' }}
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

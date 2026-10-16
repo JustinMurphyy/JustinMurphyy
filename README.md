@@ -137,14 +137,7 @@ I care about **maintainable code, predictable system behavior, useful automation
 </div>
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 09 October 2026 - To: 16 October 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
+WakaTime stats will appear after the first successful sync.
 
 <!--END_SECTION:waka-->
 
