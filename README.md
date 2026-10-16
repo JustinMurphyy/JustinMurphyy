@@ -99,7 +99,7 @@ I care about **maintainable code, predictable system behavior, useful automation
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JustinMurphyy&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="98%" alt="GitHub achievement trophies" />
+<a href="https://github.com/JustinMurphyy?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_public_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Justin's public repositories" /></a>
 
 </div>
 
@@ -111,8 +111,6 @@ I care about **maintainable code, predictable system behavior, useful automation
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinMurphyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most used public repository languages" />
 
 <img width="80%" src="https://streak-stats.demolab.com?user=JustinMurphyy&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" alt="GitHub contribution streak" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=JustinMurphyy&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -126,7 +124,7 @@ I care about **maintainable code, predictable system behavior, useful automation
   <img alt="Animated contribution grid snake" src="https://raw.githubusercontent.com/JustinMurphyy/JustinMurphyy/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<sub>Generated automatically from public GitHub contributions after the included workflow is enabled.</sub>
+<sub>Generated automatically from public GitHub contributions by the included GitHub Actions workflow.</sub>
 
 </div>
 
@@ -139,7 +137,7 @@ I care about **maintainable code, predictable system behavior, useful automation
 </div>
 
 <!--START_SECTION:waka-->
-**WakaTime activity will appear here once the API key is configured and the workflow runs.**
+_WakaTime stats will appear here after `WAKATIME_API_KEY` is added as a repository Actions secret and the workflow runs._
 <!--END_SECTION:waka-->
 
 <sub>Stats update automatically using WakaTime and GitHub Actions. WakaTime only reports activity collected after the editor plugin is connected; historical coding time is not backfilled.</sub>

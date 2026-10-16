@@ -1,5 +1,10 @@
 name: Update WakaTime stats
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/wakatime.yml'
   workflow_dispatch:
   schedule:
     - cron: '15 6 * * *'
@@ -8,8 +13,11 @@ permissions:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    env:
+      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
     steps:
       - uses: athul/waka-readme@master
+        if: ${{ env.WAKATIME_API_KEY != '' }}
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
