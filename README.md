@@ -1,58 +1,164 @@
-<!-- 🌑 DARK ANIMATED HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00111A,100:4C0099&height=180&section=header&text=Justin%20Murphy%20•%20Developer&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Creator|Builder|Community%20Leader&descAlignY=60" />
-</p>
+<div align="center">
 
-## 🧠 About Me
-Self-taught developer focused on automation, system flow, and digital communities.  
-Started with **Discord ecosystems**, expanded into **Lua frameworks, server cores, and security systems**.  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,50:312060,100:7C3AED&height=210&section=header&text=Justin%20Murphy&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Automation%20%7C%20Systems%20Engineering&descAlignY=60&descSize=17" alt="Justin Murphy — Software Developer" />
 
-> *“If you don’t know, figure it out.”*
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1100&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+reliable+systems+and+digital+experiences;Automation+%E2%80%A2+Backend+Logic+%E2%80%A2+Community+Platforms;From+concept+to+production-ready+solutions" alt="Animated developer introduction" /></a>
 
-## ⚙️ Skills
-**Languages:** Lua • Java • TypeScript • JavaScript  
-**Bot Dev:** Automation • Moderation • Music Systems  
-**Systems:** APIs • Optimization • Core Logic • Event Flow  
+<a href="https://github.com/JustinMurphyy"><img src="https://img.shields.io/badge/GitHub-JustinMurphyy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=JustinMurphyy&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/Focus-Automation%20%26%20Systems-6D28D9?style=for-the-badge" alt="Focus" />
 
-## 🏁 Projects
-| Project | Platform | Notes |
-|--------|----------|--------|
-| **Most Wanted County** | RedM | Public Beta |
-| **Deneva Security** | JS | Security & Audit Bot |
-| **Royal Music** | Discord | 13,800 Members • 2,800 Active |
-| **More Projects** | GitHub | [View All](https://github.com/JustinMurphyy) |
+</div>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustinMurphyy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JustinMurphyy&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustinMurphyy&theme=tokyo-night&hide_border=true&area=true" width="90%" />
-</p>
+## About
 
-## 🧩 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,java,ts,js,nodejs,html,discord,github,vscode" /><br>
-  <img src="https://img.shields.io/badge/FiveM-FF8800?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RedM-8A0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-005EA6?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+I'm **Justin**, a self-taught developer who builds automation tools, backend systems, security workflows, and multiplayer community infrastructure. I started by developing Discord ecosystems and expanded into Lua-based game frameworks, API integrations, event-driven architecture, and operational tooling.
 
-## 🌐 Connect
-<p align="center">
-  <a href="https://github.com/JustinMurphyy">
-    <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/">
-    <img src="https://img.shields.io/badge/Discord-404EED?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JustinMurphyy&label=Profile%20Views&color=003A5C&style=flat-square" />
-</p>
+I care about **maintainable code, predictable system behavior, useful automation, and products that solve real problems**.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00111A,100:4C0099&height=120&section=footer" />
-</p>
+> **Build thoughtfully. Test thoroughly. Keep improving.**
+
+## Technical toolkit
+
+<div align="center">
+
+**Languages & runtime**
+
+<img src="https://skillicons.dev/icons?i=lua,java,ts,js,nodejs,html,css&theme=dark" alt="Lua, Java, TypeScript, JavaScript, Node.js, HTML and CSS" />
+
+**Tools & platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,discord&theme=dark" alt="Git, GitHub, VS Code, MySQL and Discord" />
+
+<br />
+
+<img src="https://img.shields.io/badge/FiveM-FF8800?style=flat-square" alt="FiveM" />
+<img src="https://img.shields.io/badge/RedM-991B1B?style=flat-square" alt="RedM" />
+<img src="https://img.shields.io/badge/REST_APIs-312E81?style=flat-square" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Event--Driven_Systems-6D28D9?style=flat-square" alt="Event-driven systems" />
+<img src="https://img.shields.io/badge/Automation-4C1D95?style=flat-square" alt="Automation" />
+<img src="https://img.shields.io/badge/Moderation_%26_Audit-4338CA?style=flat-square" alt="Moderation and audit" />
+
+</div>
+
+## Featured engineering initiatives
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FLAGSHIP_PROJECTS-3-7C3AED?style=for-the-badge" alt="Three flagship projects" />
+
+</div>
+
+<table>
+<tr><td width="33%" valign="top">
+<h3>🚀 Delta Development</h3>
+<p>Featured development initiative. Development is private until public release.</p>
+<p><img src="https://img.shields.io/badge/Featured-7C3AED?style=flat-square" alt="Featured project" /></p>
+<img src="https://img.shields.io/badge/Status-Private_Development-312060?style=flat-square" alt="Private development" />
+</td><td width="33%" valign="top">
+<h3>⚡ Project Titan</h3>
+<p>Featured project currently under private development. Public details will be shared at release.</p>
+<p><img src="https://img.shields.io/badge/Featured-7C3AED?style=flat-square" alt="Featured project" /></p>
+<img src="https://img.shields.io/badge/Status-Private_Development-312060?style=flat-square" alt="Private development" />
+</td><td width="33%" valign="top">
+<h3>🧩 Optimal Development</h3>
+<p>Featured development initiative. Source code and technical materials are private pending release.</p>
+<p><img src="https://img.shields.io/badge/Featured-7C3AED?style=flat-square" alt="Featured project" /></p>
+<img src="https://img.shields.io/badge/Status-Private_Development-312060?style=flat-square" alt="Private development" />
+</td></tr>
+</table>
+
+> These initiatives are currently private. Repository links and technical details will be published when releases are ready.
+
+## Engineering focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Backend_Engineering-151B2C?style=for-the-badge&logo=nodedotjs&logoColor=A78BFA" alt="Backend engineering" />
+<img src="https://img.shields.io/badge/Workflow_Automation-151B2C?style=for-the-badge&logo=githubactions&logoColor=A78BFA" alt="Workflow automation" />
+<img src="https://img.shields.io/badge/Platform_Development-151B2C?style=for-the-badge&logo=discord&logoColor=A78BFA" alt="Platform development" />
+<img src="https://img.shields.io/badge/Security_Tooling-151B2C?style=for-the-badge&logo=shield&logoColor=A78BFA" alt="Security tooling" />
+
+</div>
+
+## More work
+
+<details>
+<summary><b>Expand community and game-platform projects</b></summary>
+<br />
+
+| Project | Focus | Notes |
+| --- | --- | --- |
+| Deneva Security | Discord security, moderation, audit automation | Bot and tooling |
+| Most Wanted County | RedM game systems and community infrastructure | Public beta |
+| Royal Music | Discord music and community ecosystem | 13,800 members / 2,800 active (previously reported) |
+
+</details>
+
+## Contribution highlights
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JustinMurphyy&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="98%" alt="GitHub achievement trophies" />
+
+</div>
+
+## GitHub activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JustinMurphyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinMurphyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most used public repository languages" />
+
+<img width="80%" src="https://streak-stats.demolab.com?user=JustinMurphyy&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" alt="GitHub contribution streak" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=JustinMurphyy&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+## Contribution animation
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JustinMurphyy/JustinMurphyy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JustinMurphyy/JustinMurphyy/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated contribution grid snake" src="https://raw.githubusercontent.com/JustinMurphyy/JustinMurphyy/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>Generated automatically from public GitHub contributions after the included workflow is enabled.</sub>
+
+</div>
+
+## WakaTime · Coding activity
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/WakaTime-Editor_Activity-7C3AED?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime coding activity" />
+
+</div>
+
+<!--START_SECTION:waka-->
+**WakaTime activity will appear here once the API key is configured and the workflow runs.**
+<!--END_SECTION:waka-->
+
+<sub>Stats update automatically using WakaTime and GitHub Actions. WakaTime only reports activity collected after the editor plugin is connected; historical coding time is not backfilled.</sub>
+
+## Collaboration and contact
+
+Open to technical conversations around automation, backend workflows, platform development, and developer tooling. The best starting point is my public GitHub work and project discussions.
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/JustinMurphyy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+
+
+<br /><br />
+
+<i>Interested in building reliable tools, smarter workflows, and better developer experiences.</i>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,50:312060,100:7C3AED&height=110&section=footer" alt="Footer wave" />
+
+</div>
