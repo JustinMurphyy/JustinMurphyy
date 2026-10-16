@@ -137,7 +137,15 @@ I care about **maintainable code, predictable system behavior, useful automation
 </div>
 
 <!--START_SECTION:waka-->
-_WakaTime stats will appear here after `WAKATIME_API_KEY` is added as a repository Actions secret and the workflow runs._
+
+```txt
+From: 09 October 2026 - To: 16 October 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <sub>Stats update automatically using WakaTime and GitHub Actions. WakaTime only reports activity collected after the editor plugin is connected; historical coding time is not backfilled.</sub>
