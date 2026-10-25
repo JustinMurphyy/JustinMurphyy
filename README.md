@@ -139,15 +139,15 @@ I care about **maintainable code, predictable system behavior, useful automation
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2026 - To: 24 October 2026
+From: 18 October 2026 - To: 25 October 2026
 
-Total Time: 3 hrs 20 mins
+Total Time: 2 hrs 48 mins
 
-Luau         1 hr 17 mins          ████████▓░░░░░░░░░░░░░░░░   35.04 %
-HTML         36 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
-Other        21 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
-JavaScript   18 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-Markdown     18 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+Luau         1 hr 17 mins          ██████████▒░░░░░░░░░░░░░░   40.92 %
+HTML         36 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
+Other        21 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+JavaScript   18 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+Markdown     15 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
 ```
 
 <!--END_SECTION:waka-->
